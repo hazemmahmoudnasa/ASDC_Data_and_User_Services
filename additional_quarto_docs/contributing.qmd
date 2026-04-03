@@ -1,0 +1,28 @@
+---
+title: "Contributing Guide"
+subtitle: "Recommendations based on previous notebook reviews and revisions."
+date: last-modified
+citation_url: https://nasa.github.io/ASDC_Data_and_User_Services/learning-more.html
+---
+
+*This contributing guide is a draft, and still under active, open development.*
+
+### Style Guidelines
+
+The following are recommended and/or enforced via the CI/CD workflow:
+
+- **Python Version**: This project requires Python 3.10 or higher. All code and notebooks should be compatible with Python 3.10+.
+- Use `ruff` for linting and formatting.
+- Wherever possible and appropriate, move inline comments into notebook Markdown cells.
+- Wherever possible and appropriate, replace static references to local files with code that will programmatically pull data files when running a notebook.
+
+### Content Guidelines
+
+Ensure each notebook contains, at a minimum:
+
+- A quarto header with an auto-generated "last published" date included
+- A Markdown header section with:
+  - A **Summary** or **Overview** block
+  - A **Prerequisites** block
+  - A **Notebook Author/Affiliation** block
+- Numbered sections that use Markdown hash symbols (#) for headings 

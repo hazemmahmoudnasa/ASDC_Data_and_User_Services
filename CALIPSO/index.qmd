@@ -1,0 +1,17 @@
+---
+title: "CALIPSO (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations) resources"
+date: last-modified
+author: "Atmospheric Science Data Center (ASDC)"
+---
+
+{{< include ../mission-index-blurb.qmd >}}
+
+---
+
+## An introduction to...
+
+#### - [Plotting ozone number densities](../CALIPSO/how_to_plot_ozone_number_densities.ipynb)
+
+#### - [Plotting CALIPSO Backscatter](../CALIPSO/how_to_plot_backscatter_for_CALIPSO.ipynb)
+
+#### - [Plotting CALIPSO NVF Backscatter](../CALIPSO/how_to_plot_backscatter_for_CALIPSO_NVF.ipynb)

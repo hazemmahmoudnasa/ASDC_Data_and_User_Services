@@ -1,2 +1,14 @@
-# ASDC_Data_and_User_Services_And_Tutorials
-This GitHub page serves as a comprehensive resource for end users seeking tutorials on various missions conducted by the Atmospheric Science Data Center (ASDC). The primary objective of the page is to provide step-by-step guidance and instructions on utilizing the NASA missions archived and distributed by ASDC DAAC. By offering these tutorials, the page aims to enhance the knowledge and proficiency of end users, enabling them to effectively leverage the valuable resources made available by ASDC. This GitHub page facilitates the seamless transfer of expertise from ASDC to end users, fostering a collaborative environment that drives innovation and progress in space-related endeavors.
+# Data Tutorials and User Services for the ASDC
+
+This GitHub page serves as a comprehensive resource for end users
+seeking guidance and instructions on
+working with data from select missions that are archived and distributed by
+the Atmospheric Science Data Center (ASDC).
+Its aim is to enhance the knowledge and proficiency of data users,
+enabling more effective usage of the valuable resources made available by ASDC.
+Through this transfer of expertise from ASDC to users, we hope to
+foster a collaborative environment that drives innovation and progress in space-related endeavors.
+
+**View the rendered page [here](https://nasa.github.io/ASDC_Data_and_User_Services/).**
+
+*This site is under active, open development. Stay tuned for more and ever-evolving content!* 

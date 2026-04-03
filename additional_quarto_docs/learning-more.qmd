@@ -1,0 +1,12 @@
+---
+title: "Learning more"
+date: last-modified
+citation_url: https://nasa.github.io/ASDC_Data_and_User_Services/contributing.html
+---
+
+For additional information on NASA's Earth Observation data, please check out these additional resources: 
+
+- [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/): General information on accessing Earthdata
+- [`earthaccess`](https://earthaccess.readthedocs.io/en/latest/): One stop shop for programmatic login, search, and access to Earthdata using Python
+- [Earthdata Search](https://search.earthdata.nasa.gov/search): Graphical interface for searching and discovering NASA Earthdata datasets
+- [`ncompare`](https://ncompare.readthedocs.io/en/stable/): ASDC's tool for comparing structure of netCDF files
